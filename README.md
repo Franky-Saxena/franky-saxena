@@ -36,3 +36,8 @@ I am Full Stack Data Scientist.
 2. Maching Learning
 3. Deep Learning
 4. Data Science
+5. SQL
+6. Natural Language Processing
+7. Data Analysis
+8. Data Visualization
+9. Web Scraping
