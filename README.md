@@ -41,3 +41,4 @@ I am Full Stack Data Scientist.
 7. Data Analysis
 8. Data Visualization
 9. Web Scraping
+10. Statistics
