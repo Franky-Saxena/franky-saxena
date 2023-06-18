@@ -14,7 +14,7 @@ I am a Full Stack Data Scientist.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franky-saxena-371ab5173)
 
 ## Other Common Github Profile Sections
-💼 I'm previously working at LTIMindtree.Pvt as Data Analyst.
+💼 I had previously worked at LTIMindtree.Pvt as Data Analyst.
 
 🧠 I'm currently learning...
 
